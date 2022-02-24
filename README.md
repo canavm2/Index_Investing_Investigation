@@ -139,6 +139,17 @@ The above plots show that investing in a crypto ETF/Trust does not generate near
 
 ---
 
+## Effects and Analysis of Stock Addition/Removal to the SP500
+This section will dive into the trends and patterns observed before and after a stock is either added or removed from the SP500. 
+
+Pre - Addition: There is a sharp increase seen within the 2 years prior to addition.
+The amplitude of this upturn as well as other factors will be further looked into in following projects. 
+![image] (Users/devpatel/Desktop/Index_Investing_Investigation/CHTR_pre_add.png)
+
+Pre - Removal: There is a sharp decrease seen within the 2 years prior to addition.
+The amplitude of this downturn as well as other factors will be further looked into in following projects. 
+![image] (/Users/devpatel/Desktop/Index_Investing_Investigation/xrx_pre_drop.png)
+
 ## Contributors
 
 David Lee Ping
@@ -157,7 +168,13 @@ email: canavm2@gmail.com
 Phone: 518.744.0927
 
 ---
+Dev Patel
 
+email: dev8125@gmail.com
+
+Phone: 818-237-0847
+
+---
 ## License
 
 MIT License
