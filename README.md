@@ -144,11 +144,11 @@ This section will dive into the trends and patterns observed before and after a 
 
 Pre - Addition: There is a sharp increase seen within the 2 years prior to addition.
 The amplitude of this upturn as well as other factors will be further looked into in following projects. 
-![image] (Users/devpatel/Desktop/Index_Investing_Investigation/CHTR_pre_add.png)
+![image] (CHTR_pre_add.png)
 
 Pre - Removal: There is a sharp decrease seen within the 2 years prior to addition.
 The amplitude of this downturn as well as other factors will be further looked into in following projects. 
-![image] (/Users/devpatel/Desktop/Index_Investing_Investigation/xrx_pre_drop.png)
+![image] (xrx_pre_drop.png)
 
 ## Contributors
 
