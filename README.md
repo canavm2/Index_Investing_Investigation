@@ -69,6 +69,9 @@ The worksheet labeled AUMvsMARKETCAP provides a way to compare different S&P500 
 
 ![Market Cap Data](data_pic_1.PNG)
 
+
+The worksheet labeled IndividualStocksvsSP500 is a work in progress and curently looks at minor variations in MArket Capitalization and what (if any) impact they have on Market Capitalization.
+
 ## Crypto ETF Analyzer
 
 This application is split into two parts. Defned functions are located in the fileio.py file as follows:
